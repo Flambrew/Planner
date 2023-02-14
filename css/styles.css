@@ -1,0 +1,19 @@
+.container {
+    font-size: 0px;
+    width: 100%;
+    margin: 0px;
+}
+
+.calendar {
+    width: 43.75%;
+    height: 600px;
+    
+}
+
+.calendar-header {
+    height: 100px;
+}
+
+.calendar-body {
+    height: 500px;
+}
